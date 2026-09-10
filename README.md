@@ -46,7 +46,3 @@ scripts document the toolchain flow:
 Generated build artifacts (netlists, place-and-route reports, bitstreams,
 IP-core generated output) are intentionally not included in this repo — only
 the authored source.
-
-## Files
-
-- `Final_Project_Report.docx` — full project write-up submitted for the course
